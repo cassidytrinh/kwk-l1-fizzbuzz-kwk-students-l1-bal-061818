@@ -18,3 +18,8 @@ def fizzbuzz(num)
     puts "Buzz"
   end
 end
+
+fizzbuzz(3)
+fizzbuzz(4)
+fizzbuzz(5)
+fizzbuzz(15)
