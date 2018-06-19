@@ -1,6 +1,6 @@
 
 def fizzbuzz(num)
-  ret = ""
+  ret = nil
   if num%3 == 0
     ret += "Fizz"
   end
